@@ -1,1 +1,4 @@
-# toy_TodoList
+- **Core Data**
+- **UIKit**
+- **Storyboard**
+- **Navigation**
